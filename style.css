@@ -1,0 +1,165 @@
+title {
+    font: 12px Arial;
+}
+
+h1,h2,h3 { 
+    font: 24px Arial;
+    color: white;
+    height: 50px;
+}
+
+article {
+    font: 19px Arial;
+    color: white;
+}
+
+br {
+    color: white;
+}
+
+legend {
+    font: 20px Arial;
+    color: white;
+}
+
+a {
+    font: 17px Arial;
+
+}
+
+h4 {
+    font: 15px Arial;
+    color: white;
+}
+
+i {
+    font: 20px Arial;
+    color: white;
+}
+
+b {
+    font: 20px Arial;
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+
+footer {
+    font: 13px Arial;
+    color:grey;
+}
+
+.one {
+   color:green; 
+}
+
+.two {
+    color:red;
+}
+
+.three {
+    color: royalblue;
+}
+
+.Home {
+    color:crimson;
+    font-size: 24px;
+}
+
+#ww, #ss, #xx, #ee, #dd, #cc {
+    width: 100px;
+    background-color: seagreen;
+    padding: 4px;
+    
+}
+
+#pl {
+    background-color: green;
+    
+}
+
+#pla {
+    background-color:rgb(167, 233, 167);
+}
+
+#plm {
+    background-color: rgb(116, 212, 116);
+}
+
+#pls {
+    background-color:rgb(103, 240, 82);
+}
+
+#pld {
+    background-color: rgb(42, 235, 42);
+}
+
+#plf {
+    background-color: rgb(33, 154, 33);
+}
+
+#plg {
+    background-color: rgb(9, 58, 9);
+    color: white;
+}
+
+#plh {
+    background-color: rgb(52, 116, 48);
+}
+
+#pl,#pla,#plm,#pls,#pld,#pls,#plf {
+    color: Black;
+} 
+
+#czar {
+    color: Black;
+}
+
+#serwis {
+    min-height: 150px;
+    min-width: 1000px;
+    max-height: 150px;
+    max-width: 1000px;
+    border-color: limegreen;
+}
+
+#J {
+   max-height: 30px;
+   max-width: 250px;
+   min-height: 30px;
+   min-width: 250px;
+   border-color: limegreen;
+}
+
+#serwis2 {
+    min-height: 150px;
+    min-width: 700px;
+    max-height: 150px;
+    max-width: 700px;
+    border-color: limegreen;
+}
+
+#oo {
+    height: 50px;
+    width: 250px;
+    background-color: limegreen;
+    color: White;
+}
+
+html {
+    background-color: black;
+    color: White;
+}
+
+
+
+
+
+
+
